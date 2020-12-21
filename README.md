@@ -10,4 +10,4 @@ ____________________________________
 3. Express
 4. Nodemon 
 
-<img src="../public/images/id.png">
+<img src="./id_card/public/images/id.png">
